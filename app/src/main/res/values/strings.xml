@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyChk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tittle_user">Ingrese su Usuario</string>
+    <string name="tittle_pwd">Ingrese Contraseña</string>
+    <string name="tittle_name">Ingrese su Nombre</string>
+    <string name="tittle_tel">Ingrese su No.Cel</string>
+    <string name="tittle_boton">INICIAR SESION</string>
+    <string name="tittle_btn_reg">Registro</string>
+</resources>
